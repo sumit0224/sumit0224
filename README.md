@@ -6,7 +6,7 @@
   <img src="path/to/your/banner-image.png" alt="A cool banner image for my profile" />
 </p>
 
-<h1 align="center">Hi there, I'm Alex Chen 👋</h1>
+<h1 align="center">Hi there, I'm Sumit Gautam 👋</h1>
 <h3 align="center">A passionate Full Stack Developer from San Francisco, CA</h3>
 
 <br>
