@@ -16,11 +16,11 @@
   I'm a Full Stack Developer with a strong passion for building robust and scalable web applications. My expertise spans across the entire stack, from creating intuitive user interfaces with React to designing and implementing RESTful APIs with Node.js and Django. I'm always eager to learn new technologies and improve my craft.
 </p>
 
-- 🔭 I’m currently working on **[Project Name](link-to-project)**, an e-commerce platform with a microservices architecture.
+- 🔭 I’m currently working on **build own saaS**, an e-commerce platform with a microservices architecture.
 - 🌱 I’m currently learning **Go (Golang)** and **GraphQL**.
 - 👯 I’m looking to collaborate on **open-source projects related to developer tools or educational platforms**.
 - 💬 Ask me about **React, Node.js, Python, PostgreSQL, and AWS**.
-- 📫 How to reach me: **[alex.chen.dev@email.com](mailto:alex.chen.dev@email.com)**
+- 📫 How to reach me: **[sumitgautam969@email.com](mailto:sumitgautam969@email.com)**
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
 <br>
@@ -30,7 +30,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
   <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-handle" height="30" width="40" /></a>
-  <a href="https://your-portfolio-website.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="your-portfolio-website.com" height="30" width="40" /></a>
+  
 </p>
 
 <br>
