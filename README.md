@@ -3,7 +3,8 @@
   Find free Banners/Headers at: https://www.canva.com/ or https://coolbackgrounds.io/
 -->
 <p align="center">
-  <img src="path/to/your/banner-image.png" alt="A cool banner image for my profile" />
+  <img src="![image](https://github.com/user-attachments/assets/fa9a9b5e-fb7b-4d55-a731-73deec6543f9)
+" alt="A cool banner image for my profile" />
 </p>
 
 <h1 align="center">Hi there, I'm Sumit Gautam 👋</h1>
