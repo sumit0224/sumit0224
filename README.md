@@ -3,7 +3,7 @@
   Find free Banners/Headers at: https://www.canva.com/ or https://coolbackgrounds.io/
 -->
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/fa9a9b5e-fb7b-4d55-a731-73deec6543f9)
+  <img src="https://www.shutterstock.com/image-illustration/fuull-stack-development-concept-text-sunlight-2047616192
 " alt="A cool banner image for my profile" />
 </p>
 
