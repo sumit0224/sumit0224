@@ -65,19 +65,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-<br>
-
-<!-- GitHub Stats Section -->
-<h3 align="left">My GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en&theme=tokyonight" alt="your-username" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&layout=compact&langs_count=8&theme=tokyonight" alt="your-username" />
-</p>
-
-<br>
-
-<!-- Trophies -->
+<br><!-- Trophies -->
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&row=1" alt="your-username" />
 </p>
